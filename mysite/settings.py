@@ -25,7 +25,7 @@ SECRET_KEY = 'g0)!rg7j$=c(4ma8$j6-0x(-18r18*0)a!nzqx)se8*i_f_wj_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['namingsense.pythonanywhere.com', 'localhost','127.0.0.1']
 
 
 # Application definition
